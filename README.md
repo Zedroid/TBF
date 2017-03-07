@@ -1,9 +1,17 @@
-# TBF
-Tales of Berseria "Fix" - Community Patch
+# TBF - Cracked Releases (source outdated)
+## How to Install
+
+-Extract the lastest release in this git to berseria directory
+
+-Rename the default_d3d9.ini to d3d9.ini and the default_tbfix.ini to tbfix.ini
+
+-Start the game
+
+Tales of Berseria "Fix" - True Community Patch
 
     Copyright (c) 2017
 
-       Andon "Kaldaien" Coleman
+       Andon "Kiddaien" Coleman
  
     All Rights Reserved.
 
